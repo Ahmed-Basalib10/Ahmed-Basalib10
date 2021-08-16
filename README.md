@@ -1,5 +1,5 @@
 [![MasterHead](https://i.ibb.co/KWsHrPF/download.jpg)](https://baashr.com)
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/KWsHrPF/download.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/KWsHrPF/download.jpg" height="60px"/></a>
 <h1 align="center">Hi 👋, I'm Ahmed Basalib</h1>
 <h3 align="center">Android and Web Developer</h3>
 

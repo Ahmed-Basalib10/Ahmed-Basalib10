@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="320px" src="https://i.ibb.co/RYs7Gyz/img.jpg" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Basalib</h1>
-<h3 align="center">Android and Backend Developer</h3>
+<h3 align="center">Software Engineering</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/VTjPsGF/Pngtree-illustration-works-as-a-programmer-5980063.png">
 

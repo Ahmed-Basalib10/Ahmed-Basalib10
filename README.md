@@ -8,13 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[RevmeUp Company](https://revmeup.in/)**
+- 🔭 I’m currently working at **[Qawafel Company](https://qawafel.sa/)**
 
 - 🌱 I’m Motivated to learn, grow and excel in **Programming.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 -Know about my experiences **[My CV](https://drive.google.com/file/d/14CaXSmfwLAdnxjCgwyXDpbAohqL_sFNr/view?usp=sharing)**
+- 👨‍💻 -Know about my experiences **[My CV](https://drive.google.com/file/d/1hJNAhDLLj6BnIiFTdeHQ0p5q2PMwbUt7/view?usp=sharing)**
 
 - 📫 How to reach me **ahmedbasalib.17@gmail.com**
 

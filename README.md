@@ -42,14 +42,6 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-  <br/>
-  <p align="center"
-   <a href="https://github.com/Ahmed-Basalib10/github-readme-stats"><img alt="Ahmed Basalib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Basalib10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-   </p>
-  <br/>
   
   ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -64,8 +56,4 @@
 
 </p>
 
-## ❤ Views
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ahmed-Basalib10">
-</a>
 

@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 -Know about my experiences **[My CV](https://drive.google.com/file/d/1hJNAhDLLj6BnIiFTdeHQ0p5q2PMwbUt7/view?usp=sharing)**
-
 - 📫 How to reach me **ahmedbasalib.17@gmail.com**
 
 - ⚡ Fun fact **I am football lover.**

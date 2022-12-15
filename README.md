@@ -6,7 +6,13 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@ahmed__basalib-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ahmed_basalib)](https://twitter.com/ahmed_basalib) [![Mail Badge](https://img.shields.io/badge/-YouTube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/ahmed_basalib) [![Linkedin Badge](https://img.shields.io/badge/-Ahmed%20Basalib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed_basalib10/) [![Mail Badge](https://img.shields.io/badge/-@ahmed.o17-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ahmed.o17) [![Mail Badge](https://img.shields.io/badge/-Ahmed_Basalib-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedbasalib.17@gmail.com)
+<h4 align="center">
+    <a align="center" href="https://twitter.com/ahmed_basalib"><img src="https://img.shields.io/badge/-@ahmed__basalib-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ahmed_basalib"/></a> <a align="center" href="https://youtube.com/ahmed_basalib"><img src="https://img.shields.io/badge/-YouTube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white"/></a> <a align="center" href="https://www.linkedin.com/in/ahmed_basalib10/"><img src="https://img.shields.io/badge/-Ahmed%20Basalib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white"/></a> <a align="center" href="https://instagram.com/ahmed.o17"><img src="https://img.shields.io/badge/-@ahmed.o17-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white"/></a> <a align="center" href="mailto:ahmedbasalib.17@gmail.com"><img src="https://img.shields.io/badge/-Ahmed_Basalib-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"/></a>
+    
+</h3>
+
+
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@ahmed__basalib-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ahmed_basalib)](https://twitter.com/ahmed_basalib) [![Mail Badge](https://img.shields.io/badge/-YouTube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/ahmed_basalib) [![Linkedin Badge](https://img.shields.io/badge/-Ahmed%20Basalib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed_basalib10/) [![Mail Badge](https://img.shields.io/badge/-@ahmed.o17-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ahmed.o17) [![Mail Badge](https://img.shields.io/badge/-Ahmed_Basalib-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedbasalib.17@gmail.com) -->
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/VTjPsGF/Pngtree-illustration-works-as-a-programmer-5980063.png">
 

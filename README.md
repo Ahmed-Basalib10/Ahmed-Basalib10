@@ -4,6 +4,10 @@
 <h3 align="center">Software Engineering || Product Management</h3>
 <h4 align="center">I love building software products </h3>
 
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@ahmed__basalib-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ahmed_basalib)](https://twitter.com/ahmed_basalib) [![Mail Badge](https://img.shields.io/badge/-YouTube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/ahmed_basalib) [![Linkedin Badge](https://img.shields.io/badge/-Ahmed%20Basalib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed_basalib10/) [![Mail Badge](https://img.shields.io/badge/-@ahmed.o17-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ahmed.o17) [![Mail Badge](https://img.shields.io/badge/-Ahmed_Basalib-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedbasalib.17@gmail.com)
+
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/VTjPsGF/Pngtree-illustration-works-as-a-programmer-5980063.png">
 
 
@@ -34,18 +38,14 @@
 
 
   
-## Connect with me:
+<!-- ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ahmed-basalib-4668941a3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ahmed_basalib"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="https://medium.com/@ahmedbasalib17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedbasalib17" height="30" width="40" /></a>
 
-</p>
-
-:mailbox: Reach me out!
-
-[![Twitter Badge](https://img.shields.io/badge/-@Ahmed-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ahmed_basalib)](https://twitter.com/ahmed_basalib) [![Mail Badge](https://img.shields.io/badge/-YouTube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/ahmed_basalib) [![Linkedin Badge](https://img.shields.io/badge/-Ahmed Basalib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed_basalib/) [![Mail Badge](https://img.shields.io/badge/-@Ahmed-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ahmed.o17) [![Mail Badge](https://img.shields.io/badge/-ahmed-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedbasalib.17@gmail.com)
+</p> -->
 
 
 #### Top Technologies

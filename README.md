@@ -43,4 +43,33 @@
 
 </p>
 
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@Ahmed-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ahmed_basalib)](https://twitter.com/ahmed_basalib) [![Mail Badge](https://img.shields.io/badge/-YouTube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/ahmed_basalib) [![Linkedin Badge](https://img.shields.io/badge/-Ahmed Basalib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed_basalib/) [![Mail Badge](https://img.shields.io/badge/-@Ahmed-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ahmed.o17) [![Mail Badge](https://img.shields.io/badge/-ahmed-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedbasalib.17@gmail.com)
+
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+I love building software products !
+
+
+#### Github Stats
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-basalib10&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
+
 

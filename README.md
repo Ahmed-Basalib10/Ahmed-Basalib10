@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="320px" src="https://i.ibb.co/JqX8zJ5/2021-software-development-salary-trends.png" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Basalib</h1>
-<h3 align="center">Software Engineering || Frontend Developer || Reactjs || Nextjs || Technical Product Manager</h3>
+<h3 align="center">Software Engineer || Frontend Engineer || Reactjs || Nextjs || || Vuejs || Technical Product Manager</h3>
 <h4 align="center">I love building software products </h3>
 
 :mailbox: Reach me out!

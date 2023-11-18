@@ -19,7 +19,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[Qawafel Company](https://qawafel.sa/)**
+- 🔭 I’m currently working at **[Salla App Company](https://salla.com)**
 
 - 🌱 I’m Motivated to learn, grow and excel in **Technology.**
 
